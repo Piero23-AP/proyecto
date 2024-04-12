@@ -5,7 +5,7 @@ import lombok.Getter;
 @Data
 public class Card {
     private int Id;
-    private String Name;
+    private String Namme;
     private String Number;
     private String Type;
     private int Ccv;
